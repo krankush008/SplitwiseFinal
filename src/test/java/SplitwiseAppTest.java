@@ -16,7 +16,7 @@ import org.junit.Test;
 public class SplitwiseAppTest {
 
     @Test
-    public void testAddExpense() {
+    public void testSplitwiseApp() {
         SplitwiseApp splitwiseApp = new SplitwiseApp();
         Expense expense = new EqualExpense(1);
         ArrayList<Expense> expenses = new ArrayList<>();
